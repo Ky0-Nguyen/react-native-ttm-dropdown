@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/react-native-modal-dropdown.svg)](https://badge.fury.io/js/react-native-modal-dropdown)
+[![npm version](https://badge.fury.io/js/react-native-ttm-dropdown.svg)](https://badge.fury.io/js/react-native-ttm-dropdown)
 
 # react-native-modal-dropdown
 A react-native dropdown/picker/selector component for both Android & iOS.
