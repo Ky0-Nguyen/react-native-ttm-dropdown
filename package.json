@@ -1,6 +1,6 @@
 {
   "name": "react-native-ttm-dropdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react-native dropdown component for both iOS and Android.",
   "keywords": [
     "react",
@@ -26,7 +26,10 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thienthanmeo/react-native-ttm-dropdown.git"
+    "url": "git+https://github.com/thienthanmeo/react-native-ttm-dropdown.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
     "prop-types": "^15.6.0"
